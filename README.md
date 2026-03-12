@@ -1,6 +1,6 @@
 [1)Mean and Variances OP.py](https://github.com/user-attachments/files/25931042/1.Mean.and.Variances.OP.py)#  Mean and variance of a discrete  distribution
 
-
+Ex. Date: 29.01.2026
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
